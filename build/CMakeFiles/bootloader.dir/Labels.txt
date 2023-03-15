@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/alextimbol/dshot_esc/build/CMakeFiles/bootloader
+/home/alextimbol/dshot_esc/build/CMakeFiles/bootloader.rule
+/home/alextimbol/dshot_esc/build/CMakeFiles/bootloader-complete.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/alextimbol/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
